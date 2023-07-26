@@ -2,6 +2,7 @@ numpy
 tensorflow
 flask
 opencv-python
+pickle
 np_utils
 tqdm
 keras
