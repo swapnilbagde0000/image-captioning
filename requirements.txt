@@ -1,10 +1,9 @@
 numpy
 tensorflow
 flask
-opencv-python
+opencv-python-headless==4.5.3.56
 np_utils
 tqdm
 keras
 git-lfs
 streamlit
-python3-opencv
